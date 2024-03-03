@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class SimpleInterest {
 
 	public static void main(String args []) {
+		
+//		3. Write a program to input principal, time, and rate (P, T, R) from the user and
+//		find Simple Interest.
+
 		int principal , rate , time;
 		Scanner s = new Scanner(System.in);
 		System.out.println("Please Enter the below Values: ");

@@ -4,6 +4,9 @@ public class choice {
 
 	public static void main(String args[])
 	{
+//		4. Take in two numbers and an operator (+, -, *, /) and calculate the value.
+//		(Use if conditions)
+
 		System.out.println("Please Enter 2 numbers and a operator: ");
 		int a,b;
 		char c;
