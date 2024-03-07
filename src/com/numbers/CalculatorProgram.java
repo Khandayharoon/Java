@@ -43,7 +43,7 @@ public class CalculatorProgram {
 
 			System.out.println(result);
 		}
-
+		input.close();
 	}
 
 }
